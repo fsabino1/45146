@@ -1,0 +1,8 @@
+variable miVariable = "Hola";
+funcion miFuncion() {
+    imprimir(miVariable);
+}
+ejecucion {
+    imprimir("Inicio del programa");
+    miFuncion();
+}

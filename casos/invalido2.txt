@@ -1,0 +1,7 @@
+variable temp = "valor";
+funcion hacerAlgo(val) {
+    imprimir(val);
+}
+ejecucion {
+    hacerAlgo[temp];
+}

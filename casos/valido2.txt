@@ -1,0 +1,8 @@
+variable contador = 0;
+funcion saludar() {
+    imprimir("Hola!");
+}
+ejecucion {
+    saludar();
+    imprimir (contador);
+} 

@@ -1,0 +1,8 @@
+variable otraVariable = 123
+funcion otraFuncion() {
+    devolver 0;
+}
+ejecucion {
+    imprimir("Esto es válido");
+    otraFuncion();
+}
