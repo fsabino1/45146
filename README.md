@@ -10,7 +10,7 @@ Pasos para ejecutar el programa:
 
 Descargarlo desde GitHub a través de la clonación de repositorio con el siguiente comando:
 
-git clone
+git clone https://github.com/fsabino1/45146
 
 Luego debemos acceder a la ruta donde está el index.js de nuestro programa y en el ejecutar:
 
